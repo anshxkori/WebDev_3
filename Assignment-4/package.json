@@ -1,0 +1,26 @@
+{
+  "name": "lab-4-secure-connect-platform",
+  "version": "1.0.0",
+  "description": "Web Development III - Lab 4: Secure Connect and Communication Platform",
+  "scripts": {
+    "start:backend": "cd backend && npm start",
+    "dev:backend": "cd backend && npm run dev",
+    "start:frontend": "cd frontend && npm run dev",
+    "test:backend": "cd backend && node test-backend.js"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "mongodb",
+    "mongoose",
+    "jwt",
+    "bcrypt",
+    "socketio",
+    "eventemitter",
+    "react",
+    "vite",
+    "tailwindcss"
+  ],
+  "author": "",
+  "license": "ISC"
+}
